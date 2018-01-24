@@ -5,6 +5,8 @@
       <classes>
       <!--<class name="basictest.ForgotPasswordValidation"/> -->
       <class name="s1googlesearch.TC1GoogleSearchResultCount"/>
+      <class name="s1googlesearch.TC2GoogleSearchResultCountUFT"/>
+      <class name="s1googlesearch.TC3GoogleSearchResultCountGITHUB"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
